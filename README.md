@@ -2,7 +2,7 @@
 
 **Building AI in Silicon Valley — in public.**
 
-Ex-Quant Fund GP · ECCV Author · 300K+ community. Twice a week I ship **AI agents & skills**.
+Ex-Quant Fund GP · ECCV Author 2026 · 300K+ community. Twice a week I ship **AI agents & skills**.
 
 #### 🚀 What I'm building
 
