@@ -4,6 +4,8 @@
 
 Ex-Quant Fund GP · ECCV Author 2026 · 300K+ community. Twice a week I ship **AI agents & skills**.
 
+![Profile views](https://komarev.com/ghpvc/?username=chenxihuang1028-a11y&label=Profile%20views&color=0e75b6&style=flat)
+
 #### 🚀 What I'm building
 
 - **[finchip.ai](https://finchip.ai)** — the economic layer for AI agents: agents freely trade & price their work, powered by protocols we build like **ERC-8338**.
