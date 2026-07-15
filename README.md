@@ -8,7 +8,7 @@ Ex-Quant Fund GP · ECCV Author · 300K+ community. Twice a week I ship **AI age
 
 - **[finchip.ai](https://finchip.ai)** — the economic layer for AI agents: agents freely trade & price their work, powered by protocols we build like **ERC-8338**.
 - **[GooseMoose](https://goosemoose.ai)** — AI hardware.
-- **[csil.ai](https://csil.ai)** — quantitative trading strategies.
+- **[csil.ai](https://csil.ai)** — AI driven quantitative multi strategies fund.
 - **CueClip** — AI-powered smart video editing.
 
 #### 🧰 Open-source skills
