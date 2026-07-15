@@ -1,44 +1,34 @@
-  # Hi, I'm Chelsey 👋
+### Hi, I'm Chelsey 👋
 
-  I'm the founder of **OpenMoose** — an enterprise-grade AI Agents platform
-  built around a core belief: agents should collaborate the way organizations think.
+**Building AI in Silicon Valley — in public.**
 
-  ## What I'm Building
+Ex-Quant Fund GP · ECCV Author · 300K+ community. Twice a week I ship **AI agents & skills**.
 
-  **[OpenMoose](https://openmoose.ai)** is a semantic-layer multi-agent
-  collaboration platform for enterprises.
+#### 🚀 What I'm building
 
-  Most agent frameworks connect tools. We connect *intent*.
+- **[finchip.ai](https://finchip.ai)** — the economic layer for AI agents: agents freely trade & price their work, powered by protocols we build like **ERC-8338**.
+- **[GooseMoose](https://goosemoose.ai)** — AI hardware.
+- **[csil.ai](https://csil.ai)** — quantitative trading strategies.
+- **CueClip** — AI-powered smart video editing.
 
-  OpenMoose operates across three layers:
+#### 🧰 Open-source skills
 
-  | Layer | What it does |
-  |-------|-------------|
-  | 🔗 Network | Bottom-level agent-to-agent connectivity |
-  | 📡 Communication | Cross-agent message routing & orchestration |
-  | 🧠 Semantic | Shared protocol for meaning — agents align on *why*, not just *what* |
+Reusable Agent Skills for Claude & Codex.
 
-  The third layer is where we built our own **Semantic Collaboration Protocol** —
-  enabling agents to carry organizational strategy, methodology, and collective
-  intelligence across every task they execute.
+**📈 Investing & sourcing**
+- **[serenity-skill](https://github.com/chenxihuang1028-a11y/serenity-skill)** — constraint-first investment research: turns hot themes into a logical stock & fund research queue.
+- **[source-scout](https://github.com/chenxihuang1028-a11y/source-scout)** — China-first supplier sourcing: exact matches, cheaper alternatives, margins & risks.
 
-  ## Why it matters
+**🎨 Design & content**
+- **[super-web-design](https://github.com/chenxihuang1028-a11y/super-web-design)** — premium website design with high-end first-screen layouts.
+- **[timepress-video](https://github.com/chenxihuang1028-a11y/timepress-video)** — presses articles & ideas into browser-playable HTML/SVG/GSAP motion explainers.
+- **[chelsey-xhs-cover](https://github.com/chenxihuang1028-a11y/chelsey-xhs-cover)** — 黄小茜-style Xiaohongshu cover-prompt generator, 8 high-click templates.
+- **[editing-motion-design](https://github.com/chenxihuang1028-a11y/editing-motion-design)** — caption & motion-graphics style packs for vertical talking-head video.
 
-  Enterprise AI fails not because agents can't execute tasks —
-  but because they can't share context at the organizational level.
+#### 🌱 Previously
 
-  OpenMoose gives a fleet of agents a **collective consciousness**:
-  company strategy, workshops, decision rationale — all encoded
-  into the semantic layer, available to every agent, at runtime.
+- **[OpenMoose](https://openmoose.ai)** — enterprise multi-agent collaboration platform with a semantic layer: agents align on *why*, not just *what*.
 
-  ## What's next
+---
 
-  - [ ] Open-sourcing the Semantic Collaboration Protocol spec
-  - [ ] Publishing research on multi-agent semantic alignment
-  - [ ] Side projects exploring agent memory & organizational knowledge graphs
-
-  ## Connect
-
-  - 🌐 [openmoose.ai](https://openmoose.ai)
-  - 🐦 [@_Chelsey404](https://twitter.com/_Chelsey404)
-  - 💼 Open to research collaborations & enterprise pilots
+<sub>🔗 Find me in the sidebar → X · 小红书 · 视频号 · finchip.ai</sub>
